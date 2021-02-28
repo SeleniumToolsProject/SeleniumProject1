@@ -24,6 +24,12 @@ public class HomePage {
 		System.out.println("m6 method is displayed");
 	}
 	
+	public void m5() {
+		
+		System.out.println("m5 is displayed");
+		
+	}
+	
 
 	public static void main(String[] args) {
 		
