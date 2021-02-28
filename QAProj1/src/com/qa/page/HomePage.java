@@ -20,6 +20,9 @@ public class HomePage {
 		
 		System.out.println("m4 is dispalyed");
 	}
+	public void m6() {
+		System.out.println("m6 method is displayed");
+	}
 	
 
 	public static void main(String[] args) {
